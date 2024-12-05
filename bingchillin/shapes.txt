@@ -1,0 +1,4 @@
+window 800 600
+Font tech.ttf 18 255 255 0
+circle CGreen 100 100 -0.3 0.3 0 255 0 50
+rectangle RTeal 25 100 -0.2 -0.2 0 255 255 100 100
