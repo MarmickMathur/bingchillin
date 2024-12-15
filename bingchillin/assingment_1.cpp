@@ -3,6 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+
 float chsz;
 int chr, chg, chb;
 sf::Font font;
